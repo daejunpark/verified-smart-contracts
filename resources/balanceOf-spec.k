@@ -85,7 +85,6 @@ module BALANCEOF-SPEC
             <storage>
               #hashedLocation("Solidity", 0, OWNER) |-> VALUE _:Map
             </storage>
-            <origStorage> _ </origStorage>
             <nonce> _ </nonce>
           </account>
        // ... // TODO: fix
@@ -181,7 +180,6 @@ andBool 0 <=Int VALUE andBool VALUE <Int (2 ^Int 256)andBool OWNER =/=Int 0
             <storage>
               #hashedLocation("Solidity", 0, OWNER) |-> VALUE _:Map
             </storage>
-            <origStorage> _ </origStorage>
             <nonce> _ </nonce>
           </account>
        // ... // TODO: fix

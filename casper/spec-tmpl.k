@@ -63,7 +63,6 @@
             <storage>
 {STORAGE}
             </storage>
-            <origStorage> _ </origStorage>
             <nonce> _ </nonce>
           </account>
 {ACCOUNTS}
